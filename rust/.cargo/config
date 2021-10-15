@@ -1,0 +1,5 @@
+[build]
+target = "aarch64-linux-android"
+
+[target.aarch64-linux-android]
+linker = "../../../Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android26-clang++"
