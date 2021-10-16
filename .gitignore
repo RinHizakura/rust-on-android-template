@@ -1,2 +1,4 @@
 rust/target
 rust/.cargo/config
+android/.idea/
+android/app/src/main/jniLibs
