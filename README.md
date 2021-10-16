@@ -12,3 +12,11 @@ of APPs. It also helps to install NDK (Native Development Kit) and its associate
 From *Tools -> SDK manager -> SDK tools*, download the following tools:
 
 ![](image/SDK_manager.png)
+
+## Reference
+
+* [Building and Deploying a Rust library on Android](https://mozilla.github.io/firefox-browser-architecture/experiments/2017-09-21-rust-on-android.html)
+* [Running Rust on Android](https://blog.svgames.pl/article/running-rust-on-android)
+* [android-ndk-rs](https://github.com/rust-windowing/android-ndk-rs)
+* [rust-on-android](https://github.com/suve/rust-on-android/)
+* [cross-platform-rust](https://github.com/fluffyemily/cross-platform-rust)
