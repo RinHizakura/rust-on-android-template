@@ -13,6 +13,7 @@ From *Tools -> SDK manager -> SDK tools*, download the following tools:
 
 ![](image/SDK_manager.png)
 
+note: The ndk version over r23 could not work. You should try the older one.
 ## Reference
 
 * [Building and Deploying a Rust library on Android](https://mozilla.github.io/firefox-browser-architecture/experiments/2017-09-21-rust-on-android.html)

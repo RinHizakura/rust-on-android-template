@@ -2,4 +2,4 @@
 target = "aarch64-linux-android"
 
 [target.aarch64-linux-android]
-linker = "NDK_PREBUILT_HOME/linux-x86_64/bin/aarch64-linux-android26-clang++"
+linker = "NDK_PREBUILT_HOME/linux-x86_64/bin/aarch64-linux-android26-clang"

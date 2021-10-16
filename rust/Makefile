@@ -1,4 +1,4 @@
-NDK_PREBUILT_HOME = '..\/..\/..\/Android\/Sdk\/ndk\/23.0.7599858\/toolchains\/llvm\/prebuilt'
+NDK_PREBUILT_HOME = '..\/..\/..\/Android\/Sdk\/ndk\/22.0.7026061\/toolchains\/llvm\/prebuilt'
 
 build:
 	cp scripts/config .cargo/.
