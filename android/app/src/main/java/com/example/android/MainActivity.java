@@ -16,7 +16,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         RustUtils g = new RustUtils();
-        String r = g.sayHello("Amita");
-        ((TextView)findViewById(R.id.textView)).setText(r);
+        String r = g.echoString("Amita");
+        ((TextView)findViewById(R.id.textString)).setText(r);
+
+        String i = g.echoInt(39);
+        ((TextView)findViewById(R.id.textInt)).setText(i);
     }
 }
